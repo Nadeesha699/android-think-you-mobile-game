@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ThinkYou</string>
+
+    <style name="custom_back" parent="Theme.AppCompat.Dialog.MinWidth">
+       <item name="android:background">#E91E63</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="custom_yes" parent="Theme.AppCompat.Dialog.MinWidth">
+        <item name="android:background">@color/purple</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
+
